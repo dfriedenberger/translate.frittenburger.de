@@ -1,0 +1,141 @@
+mío::meiner
+suyo::ihrer
+suyo::Ihrer
+suyo::seiner
+tuyo::deiner
+algo::irgendwas
+alguien <algn>::jemand <jd.>
+algunos::einige
+alguno::jemand
+algún::irgendein
+ambos::beide
+a mí::mich
+a mí::mir
+a nosotros::uns
+aquel / aquél::jener
+aquel::dieser
+aquello::jener
+a quien::wem
+a vosotros::euch
+a él::ihm
+a él::ihn
+cada cual::jedermann
+cada uno::jedermann
+cada uno::jeder
+conmigo::bei mir
+conmigo::mit mir
+cualquiera::irgendein
+cualquiera::irgendjemand
+cualquiera::irgendwer
+cualquiera::jedermann
+cuyo::dessen
+cuál::welcher
+cúyo::wessen
+de la cual::deren
+de que::dessen
+de quién::wessen
+de todo::von allem
+ellas::sie
+ella::sie
+ellos::sie
+el mismo::derselbe
+ese / ése::der da
+ese / ése::dieser
+ese / ése::jener
+eso::das
+eso::dies
+eso::jener
+esos::jene
+esos::diese
+este / éste::dieser
+esto::das hier
+esto::das
+esto::dies
+estos::diese
+las cuales::welche
+las dos::beide
+las dos::die beiden
+las dos::die zwei
+la::es
+la::sie
+le::ihn
+les::ihnen
+le::Ihnen
+le::ihm
+le::ihr
+lo mismo::dasselbe
+lo propio::dasselbe
+los / las demás::die Anderen
+los dos::beide
+los dos::die beiden
+los dos::die zwei
+lo::es
+lo::ihn
+lo::sie
+me::mich
+me::mir
+mi::mein
+mismo::selbe
+nada::nichts
+nadie::niemand
+ninguno::keine
+ninguno::keiner
+ninguno::kein
+nosotras::wir
+nosotros::wir
+nos::uns
+nuestras::unsere
+nuestros::unsere
+nuestro::unser
+os::euch
+propio::selbst
+que::der
+que::wo
+quienquiera::irgendwer
+quienquiera::wer auch immer
+quien::welcher
+quiénes::wer
+quién::wer
+qué::was
+se::sich
+se::sich selbst
+se::man
+su::ihr
+su::sein
+sus::Ihre
+sus::ihre
+sus::seine
+su::Ihr
+sí mismo::sich selber
+sí mismo::sich selbst
+tal::solch
+te::dich
+te::dir
+todo::alles
+todo el mundo::alle
+todo el mundo::die ganze Welt
+todo el mundo::jedermann
+todos::alle
+todos::jedermann
+todos::jeder
+todo::sämtlich
+todo tipo de::jeglicher
+tu::dein
+tus::deine
+tú::du
+tú mismo::du selbst
+unas::einige
+unas::ungefähr
+uno::man
+usted <Vd., Ud.>::Sie
+ustedes <Uds.>::ihr
+ustedes <Vds., Uds.>::Sie
+vosotras::ihr
+vosotros::ihr
+vos::du
+vuestro::euer
+vuestros::eure
+yo::ich
+mismo::selbst
+¿Cuántas?::Wie viele?
+él::er

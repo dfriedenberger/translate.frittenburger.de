@@ -1,0 +1,54 @@
+<htmlen
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        
+        
+        <script src="js/jquery-1.11.1.min.js"></script>
+        
+        <link href="css/bootstrap-3.3.0.min.css" rel="stylesheet" id="bootstrap-css">
+        
+        <script src="js/popper.min.js"></script>
+        
+        <script src="js/bootstrap-3.3.0.min.js"></script>
+        <link rel="stylesheet" href="css/font-awesome-4.7.0.min.css">
+                
+        <script src="js/script.js"></script>
+        <link href="css/style.css" rel="stylesheet">
+        
+        
+    </head>
+    <body>
+
+    <div class="container">
+        <form method="post" action="/translate" accept-charset="UTF-8">
+            <div class="form-group">
+                <label for="sourcelanguage">SourceLanguage</label>
+                <select class="form-control" id="sourcelanguage" name="sourcelanguage">
+	                <option>es</option>
+	                <option>de</option>
+	                <option>en</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="targetlanguage">TargetLanguage</label>
+                <select class="form-control" id="targetlanguage" name="targetlanguage">
+	                <option>es</option>
+	                <option>de</option>
+	                <option>en</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="text">Text</label>
+                <textarea class="form-control" id="text" name="text" rows="3"></textarea>
+            </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        
+        <p id="result"></p>
+    </div>
+
+</body>
+
+
+
+</html>

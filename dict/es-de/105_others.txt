@@ -1,0 +1,686 @@
+respecto a::bezüglich
+respecto a::hinsichtlich
+respecto a::in Bezug auf
+a::am
+a::an
+abandonado::verlassen
+abandonado::verwahrlost
+abarrotado::überfüllt
+a base de::auf Grund von etw.
+abierto a mediodía::durchgehend geöffnet
+abierto::geöffnet
+abismado::versunken
+abombado::gewölbt
+absuelto::freigesprochen
+aburrido::gelangweilt
+acabado::abgeschlossen
+acabado::beendet
+acabado::erledigt
+a cargo de::zulasten
+a causa de::infolge
+a causa de::wegen
+acerca de...::was ... betrifft
+acerca de::bei
+acerca de::bezugnehmend auf
+acerca de::bezüglich
+acerca de::hinsichtlich
+acerca de::in Bezug auf
+acerca de::zu
+acerca de::über
+a consecuencia de::infolge
+acorde con::entsprechend
+acostumbrado::gewöhnt
+actualizado::aktualisiert
+adelante::voraus
+además de::außer
+además de::neben
+además de::zusätzlich zu
+adobado::mariniert
+adornado::geschmückt
+a eso de::ungefähr
+afirmado::behauptet
+afligido::bedrückt
+afligido::bekümmert
+agitado::aufgeregt
+aguerrido::abgehärtet
+ahogado::ertrunken
+ahumado::geräuchert
+ahíto::übersättigt
+a::in
+aislado::isoliert
+a la derecha de::rechts von
+a la izquierda de::links von
+a la vera de::neben
+al borde de::am Rande
+al cabo de::nach
+al contrario a::im Gegenteil zu
+al contrario que::im Gegensatz zu
+alentador::ermutigend
+al este de::östlich von
+al este de::östlich
+al final de::am Ende von
+al final de::am Ende
+aliviado::erleichtert
+al lado de::neben
+al norte de::nördlich von
+al norte de::nördlich
+al oeste de::westlich von
+al oeste de::westlich
+alojado::hineingesteckt
+a lo largo de::entlang
+a lo largo de::längs
+a lo largo de::während
+a lo largo de::
+al otro lado de::jenseits
+alrededor de::in der Nähe von
+alrededor de::ringsherum um
+al sur de::südlich von
+al sur de::südlich
+amargado::verbittert
+a menos que::sofern nicht
+a menos que ...::es sei denn, ...
+a menos que::falls nicht
+a menos que::solange nicht
+amordazado::geknebelt
+amueblado::eingerichtet
+amueblado::möbliert
+a::nach
+angustiado::bekümmert
+a no ser que::außer wenn
+anquilosado::verkrustet
+antes que::bevor
+antes de::im Vorfeld von
+antes de::vor
+antes de::bevor
+ante::angesichts
+ante::vor
+anulado::abgesagt
+apagado::ausgeschaltet
+aparte de::abgesehen von
+aparte de::außer
+a partir de::ab
+apelmazado::verfilzt
+apenado::bekümmert
+apenas::gerade als
+a pesar de ello::trotzdem
+a pesar de::obgleich
+a pesar de::obschon
+a pesar de::obwohl
+a pesar de que::obwohl
+a pesar de todo::ungeachtet
+a pesar de::trotz
+a raíz de::als Folge von
+armado::bewaffnet
+arrestado::verhaftet
+arrugado::zerknittert
+asado::gebraten
+asfixiado::erstickt
+asignado::zugewiesen
+asombrado::erstaunt
+asustado::erschrocken
+así como::sowie
+así que::sodass
+atascado::verstopft
+atascado::stecken geblieben
+atascado::blockiert
+atascado::fest steckend
+a tenor de::gemäß
+atontado::verblüfft
+a través de::durch
+a través de::mittels
+a través de::über
+aturdido::verblüfft
+atónito::verblüfft
+aun cuando::auch wenn
+aun cuando::selbst wenn
+aun cuando::sogar wenn
+aunque::aber
+aunque::auch wenn
+aunque::gleichwohl
+aunque::obgleich
+aunque::obwohl
+aunque::selbst wenn
+automatizado::automatisiert
+autorizado::berechtigt
+avanzado::fortgeschritten
+azucarado::gezuckert
+a::zu
+bajo::unter
+bebido::angetrunken
+bendito::geweiht
+bendito::gesegnet
+caducado::ungültig geworden
+calentado::beheizt
+calibrado::geeicht
+cancelado::abgesagt
+casado::geheiratet
+caso que::falls
+caso que::im Falle, dass
+cerca de::bei
+cerca de::in der Nähe von
+cerquita de::ganz in der Nähe von
+cerrado::geschlossen
+cerrado::verschlossen
+certificado::eingeschrieben
+civilizado::zivilisiert
+clavado::eingeschlagen
+climatizado::beheizt
+cocido en el horno::gebacken
+cocido::gekocht
+colgado::aufgehängt
+como::als
+como consecuencia de::infolge
+como si::als ob
+como si::als wenn
+como::weil
+como::wie
+como::wenn
+como::da
+complicado::kompliziert
+con derecho a::berechtigt
+con el fin de::zwecks
+confirmado::bestätigt
+conforme a::gemäß
+confundido::verwirrt
+congelado::tiefgefroren
+congestionado::verstopft
+con lo cual::womit
+con lo que::womit
+con::mit
+conmocionado::geschockt
+con motivo de::anlässlich
+con pesar::bekümmert
+conque::also
+con referencia a::bezüglich
+con referencia a::hinsichtlich
+con referencia a::mit Bezug auf
+consentido::verzogen
+considerando que::in Anbetracht dessen, dass
+consumido::abgehärmt
+contado::erzählt
+contaminado::verschmutzt
+contra::entgegen
+contra::gegen
+contra::gegenüber
+contrahecho::gefälscht
+controlado::gesteuert
+controvertido::umstritten
+convencido::überzeugt
+con vistas a::mit Blick auf
+corriendo::rennend
+cotizado::hoch geschätzt
+cuando::als
+cuando::wenn
+cuando::sobald
+cuanto más... , más ...::je mehr... , desto mehr
+cumplido::erledigt
+curado::gepökelt
+curado::geräuchert
+curado::getrocknet
+dado::angesichts
+dado::gegeben
+dado::in Anbetracht
+dado que ...::gesetzt den Fall, dass ...
+dado que::da
+dado que::weil
+dañado::beschädigt
+de forma que::so dass
+de ... a ...::von ... bis ...
+de acuerdo con::gemäß
+de::aus
+debajo de::unter
+debido a::aufgrund
+debido a::infolge
+debido a::wegen
+decepcionado::enttäuscht
+declarado::erklärt
+decreciente::abnehmend
+degradado::verkommen
+delante de::vor
+demostrado::erwiesen
+denegado::verweigert
+dentro de::innerhalb von
+dentro de::innerhalb
+dentro de::in
+dentro::in... hinein
+dentro::im
+de parte de::von
+de piel::Leder-
+de principios de::vom Anfang
+desafinado::verstimmt
+desaparecido::verschwunden
+desaparecido::verstorben
+desapasionado::leidenschaftslos
+desarrollado::entwickelt
+descafeinado::entkoffeiniert
+desde hace::seit
+desde que::seit
+desde que::seitdem
+desde::seit
+desde::von
+desde::von
+desde::ab
+desecado::getrocknet
+desgastado::abgenutzt
+deshecho::zerbrochen
+deshonrado::entehrt
+designado::designiert
+designado::vorgesehen
+desilusionado::enttäuscht
+despechado::empört
+después que::nachdem
+después de::nachdem
+después de::nach
+destacado::hervorragend
+desterrado::verbannt
+detallado::detailliert
+detenido::festgenommen
+deteriorado::beschädigt
+determinado::festgelegt
+detrás de::hinter
+de::von
+de::über
+dicho::gesagt
+difunto::verstorben
+distinguido::ausgezeichnet
+divorciado::geschieden <gesch.>
+dolido::gekränkt
+dominado::dominiert
+donde::bei
+dorado::vergoldet
+durante::in
+durante::während
+elaborado::hergestellt
+elegido::gewählt
+emancipado::emanzipiert
+emocionado::aufgeregt
+empanado::paniert
+empero::dennoch
+empeñado::bemüht
+empeñado::bestrebt
+enamorado::verliebt
+en::an
+en::auf
+encantada::erfreut
+encantado::erfreut
+encarcelado::inhaftiert
+en caso de que::falls
+en caso de que::im Falle, dass
+encendido::angeschaltet
+encerrado::eingesperrt
+encima de::auf
+encima::über
+en comparación con::im Vergleich mit
+en comparación con::im Vergleich zu
+en contra de::gegen
+encontrado::herausgefunden
+encorvado::gebeugt
+encriptado::verschlüsselt
+en cuanto a::bezüglich <bez.> <bzgl.>
+en cuanto a::hinsichtlich
+en cuanto que::sobald
+en cuanto::sobald
+en el este de::im Osten von
+en el este de::im Osten
+en el norte de::im Norden von
+en el norte de::im Norden
+en el oeste de::im Westen von
+en el oeste de::im Westen
+en el sur de::im Süden von
+en el sur de::im Süden
+en el transcurso de::im Verlauf von
+en el transcurso de::im Verlauf
+en espera de::in der Hoffnung auf
+enfadado::verärgert
+enfrascado::versenkt
+enfrente de::gegenüber von
+enfrente de::gegenüber
+en función de::in Abhängigkeit von
+en honor de::zu Ehren von
+en honor de::zu Ehren
+en::in
+enloquecido::verrückt geworden
+en lugar de::anstatt
+en lugar de::statt
+enmarcado::eingerahmt
+en medio de::inmitten
+en nombre de::im Interesse von
+enojado::verärgert
+en previsión de ...::im Falle, dass ...
+en relación a::bezüglich
+enterado::unterrichtet
+enterrado::beerdigt
+en torno a::um ... herum
+en torno a::über
+entre::bei
+entre::unter
+entre::zwischen
+entusiasmado::begeistert
+envenenado::vergiftet
+en vez de::anstatt
+en vez de::an Stelle von
+en vez de::statt
+envuelto::eingepackt
+envuelto::beteiligt
+en::über
+equipado::ausgestattet
+escalfado::pochiert
+es cierto que ... pero::zwar ... aber
+escondido::versteckt
+escrito con mayúscula::großgeschrieben
+escrito con minúscula::kleingeschrieben
+especializado::spezialisiert
+esperando::erwartend
+esponsorado::gesponsert
+estabilizador::stabilisierend
+establecido::etabliert
+establecido::festgelegt
+estandarizado::genormt
+estimado::geschätzt <gesch.>
+estipulado::festgelegt
+estropeado::verdorben
+estropeado::beschädigt
+estropeado::defekt
+estropeado::gealtert
+estructurado::strukturiert
+estupefacto::verblüfft
+exagerado::übertrieben
+excepto::abgesehen von
+excepto::ausgenommen
+excepto::außer
+excitado::aufgeregt
+excluido::ausgeschlossen
+explicado::erklärt
+extasiado::begeistert
+extenuado::ausgezehrt
+extinguido::ausgestorben
+extraviado::verloren gegangen
+e::und <u., &>
+fallido::gescheitert
+fascinado::fasziniert
+fermentado::vergoren
+finalizado::beendet
+flagrante::funkelnd
+formateado::formatiert
+forzado::gezwungen
+fraccionado::zerbrochen
+fracturado::gebrochen
+fracturado::zerbrochen
+frente a::gegenüber
+frito con mucho aceite::frittiert
+frito con poco aceite::kurzgebraten
+frito::gebraten
+frustrado::frustriert
+fuera de::ausgenommen
+fuera de::außerhalb von
+fuera de::außerhalb
+fuera de::außer
+fundado::fundiert
+gracias a::aufgrund von
+gracias a::aufgrund
+gracias a::dank
+habitado::bewohnt
+hace::vor
+hacia::nach
+hasta::bis
+hasta que::bis
+hecho añicos::zerbrochen
+hecho migas::zerbrochen
+hecho puré::püriert
+hecho una mierda::geschissen
+helado::vereist
+herido::verletzt
+herrumbrado::verrostet
+hinchado::geschwollen
+homogeneizado::homogenisiert
+horrorizado::schockiert
+hundido::versenkt
+hundido::eingefallen
+hundido::tief liegend
+ido::gegangen
+igualado::ausgeglichen
+impedido::behindert
+implicado::beteiligt
+implorante::flehend
+impreso::gedruckt
+incipiente::beginnend
+inclinado::geneigt
+incluido::einschließlich
+incluido::inklusive
+incorporado::eingegliedert
+industrializado::industrialisiert
+inflamado::entzündet
+informado::informiert
+integrado::integriert
+intencionado::gewollt
+interesado::interessiert
+intrigado::fasziniert
+invertido::umgekehrt
+involucrado::kompliziert
+jubilado::pensioniert
+jubiloso::begeistert
+junto a::an
+junto a::bei
+junto a::neben
+junto con::mit
+justificado::gerechtfertigt
+laminado::geraspelt
+lejano de::fern von
+lejos de::entfernt von
+lejos de::weit von
+leído::belesen
+librado::befreit
+limitado::begrenzt
+limitado::eingeschränkt
+limitado::limitiert
+lleno::belegt
+luego::also
+luego::folglich
+luego::nachdem
+mas::sondern
+mas::aber
+mas::jedoch
+mediante::anhand
+mediante::durch
+mediante::mittels
+metido::beteiligt
+mezclado::gemischt
+mientras::während
+mientras que::wohingegen
+mientras::solange
+mimado::verwöhnt
+mutilado::verstümmelt
+más de::mehr als
+más que::mehr als
+nacido::geboren
+nato::geboren
+ni ... ni::weder ... noch
+ni::auch nicht
+no bien::sobald
+no sólo ... sino también ...::nicht nur ..., sondern auch ...
+o ... o::entweder ... oder
+o bien::oder aber
+obligado::verpflichtet
+ocultado::verborgen
+ocupado::belegt
+ocupado::beschäftigt
+ocupado::besetzt
+o::entweder
+o::oder
+ordenado::geordnet
+organizado::organisiert
+orilla de::in der Nähe von
+oxidado::oxydiert
+oxidado::verrostet
+para::für
+paralizado::gelähmt
+para::nach
+para que::damit
+para::um zu
+partido::zerbrochen
+pasado::vergangen
+pasteurizado::pasteurisiert
+patrocinado::gesponsert
+pelado::geschält
+percibido::wahrgenommen
+perdido::verloren
+perforado::gelocht
+perjudicado::beschädigt
+permitido::erlaubt
+permitido::geduldet
+pero::aber
+pero::jedoch
+perturbado::gestört
+pese a que::obwohl
+pese a todo::trotz allem
+pese a::trotz
+petrificado::versteinert
+picado::gelocht
+pintado::angemalt
+pintado::gestrichen
+pirateado::raubkopiert
+planchado::gebügelt
+planeado::geplant
+plateado::versilbert
+podrido::verfault
+por culpa de::wegen
+por::durch
+por efecto de::infolge
+por encargo de::im Auftrag von
+por encima de::oberhalb
+por::für
+por::in
+por medio de::mittels
+por orden de::im Auftrag von
+porque::damit
+porque::da
+porque::weil
+por razón de::infolge
+por si acaso::falls
+por::um ... zu
+por un lado ... y por el otro lado::einerseits ... und andererseits
+por::von
+por::wegen
+por::pro
+precocinado::vorgekocht
+predestinado::vorherbestimmt
+preguntado::gefragt
+preocupado::bekümmert
+prescrito::verjährt
+presentado::gesponsert
+previsto::vorgesehen
+privilegiado::privilegiert
+procedente de::aus
+procedente de::von
+procesado::verarbeitet
+prohibido::verboten
+promocionado::beworben
+proporcionado::proportioniert
+propuesto::vorgeschlagen
+protegido::geschützt
+publicado::veröffentlicht
+pues::denn
+puesto que::da
+puesto que::weil
+que::als
+que::dass
+quemado::verbrannt
+que::weil
+raquítico::verkümmert
+rayado::schraffiert
+rayado::gestreift
+raído::abgeschabt
+reconocido::anerkannt
+reducido::begrenzt
+reducido::beschränkt
+reducido::verringert
+referente a::betreffend
+referente a::bezüglich
+referente::bezüglich
+referible::bezüglich
+rehabilitado::renoviert
+rehogado::gedünstet
+renovado::renoviert
+repetido::wiederholt
+repetido::wiederholt
+requerido::gesucht
+reservado::reserviert
+reservado::vorbestellt
+reservado::gebucht
+resfriado::erkältet
+resignado::resigniert
+respondido::geantwortet
+resuelto::gelöst
+reñido::zerstritten
+risueño::lächelnd
+rizado::gelockt
+roto::zerbrochen
+salado::gepökelt
+salado::gesalzen
+saltando::springend
+salvo::außer
+saturado::gesättigt
+según::gemäß <gem.>
+según::laut <lt.>
+según::nach
+separado::getrennt
+sepultado::beerdigt
+siempre que ...::vorausgesetzt, dass ...
+siempre y cuando::sofern
+siempre y cuando::vorausgesetzt, dass
+si::falls
+si no::anderenfalls
+si no::andernfalls
+sin::ohne
+sino::sondern
+si no::sonst
+sin que::ohne dass
+si::ob
+situado delante::vorgelagert
+situado::gelegen
+si::wenn
+sobre::auf
+sobre::etwa
+sobre::oberhalb
+sobrerrepresentado::überrepräsentiert
+sobre::über
+sometido::unterworfen
+sorprendido::verwundert
+sorprendido::überrascht
+subalimentado::unterernährt
+subsidiado::subventioniert
+susurrante::murmelnd
+tan pronto como::sobald
+tanto ... como ...::sowohl ... als auch ...
+temiendo::befürchtend
+templado::temperiert
+tensionado::angespannt
+terminado::beendet
+teñido::gefärbt
+titulado::diplomiert
+tomado::genommen
+torturado::gequält
+tostado::geröstet
+tras::nach
+tras::hinter
+trincado::zerbrochen
+tronchado::zerbrochen
+tullido::gelähmt
+turbado::beunruhigt
+térmico::beheizt
+ubicado::gelegen
+unido::vereinigt
+usado::gebraucht
+u::oder
+valorado::geschätzt
+varado::gestrandet
+vencido::besiegt
+versado::bewandert
+versado::versiert
+visto::gesehen
+vía::über
+ya que::da
+ya que::weil
+y::und <u., &>
+concerniente a::bezüglich
+tocante a algo::bezüglich
